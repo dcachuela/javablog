@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>	
-	Hello world from jsp
+	Hello world from mvc
 </body>
 </html>
